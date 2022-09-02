@@ -2,7 +2,7 @@
 
 使用 Netty NIO框架
 
-[UDC 协议设计 文档](https://www.usr.cn/Down/USR-UDC-prot_V1.0.2.pdf)
+[UDC协议设计说明书](https://www.usr.cn/Down/USR-UDC-prot_V1.0.2.pdf)
 
 
 作者
