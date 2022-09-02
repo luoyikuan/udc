@@ -8,6 +8,6 @@ import com.github.lyk98.iot.usr.udc.server.UdcServer;
  */
 public class App {
     public static void main(String[] args) {
-        UdcServer.startServer(10086);
+        UdcServer.startServer(1126);
     }
 }
