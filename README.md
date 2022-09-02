@@ -6,4 +6,4 @@
 作者
 ------
 
-Kuan [@github](https://github.com/lyk98)
+Kuan
