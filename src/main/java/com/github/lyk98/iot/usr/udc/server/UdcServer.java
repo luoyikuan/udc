@@ -21,10 +21,6 @@ public class UdcServer {
         System.out.println("Udc Server 已经关闭...");
     }
 
-    public static void main(String[] args) {
-
-    }
-
     private static void startServer0(int port) {
         EventLoopGroup bossGroup = new NioEventLoopGroup(1);
         EventLoopGroup workerGroup = new NioEventLoopGroup();
